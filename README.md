@@ -20,6 +20,8 @@ It will classify according to keywords.(Adding new accurate keywords will help m
 Step 5:
 To train the model again :- Use "Neural Network v1" by changing the file path to the "Tokenizationtable.csv" with same folder.
 It will create a "synapses.json" file in the same folder.
+It will create a "words.txt" file in the same folder.
+It will create a "classes.txt" file in the same folder.
 
 Step 6:
 To use the Created model use "Use Model" file.
